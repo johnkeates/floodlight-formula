@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+# vim: ft=yaml
+floodlight:
+  pkg: floodlight
+  config: '/etc/floodlight'
+  service:
+    name: floodlight
